@@ -1,0 +1,11 @@
+<<< Game >>>
+ Word: "transfixing" 
+ WordsHistory: [ fit trans ]
+
+<<< Game >>>
+ Word: "tolerantism" 
+ WordsHistory: [ to ]
+
+<<< Game >>>
+ Word: "heather-blutter" 
+ WordsHistory: [ blue heat the blutter ]
